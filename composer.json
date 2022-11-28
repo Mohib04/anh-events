@@ -1,0 +1,16 @@
+{
+    "name": "anh/events",
+    "description": "A event management puling.",
+    "autoload": {
+        "psr-4": {
+            "Anh\\Events\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Mohibbull Munshi",
+            "email": "33421746+Mohib04@users.noreply.github.com"
+        }
+    ],
+    "require": {}
+}

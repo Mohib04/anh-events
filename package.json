@@ -1,0 +1,16 @@
+{
+  "name": "anh-events",
+  "version": "1.0.0",
+  "description": "A event management puling.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "wp-scripts build",
+    "start": "wp-scripts start"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@wordpress/scripts": "^24.6.0"
+  }
+}
